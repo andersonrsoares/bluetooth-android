@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MiBandNotification</string>
+
+    <!-- Strings related to the Alert Dialog -->
+    <string name="notification_listener_service">"Service de Notificações"</string>
+    <string name="notification_listener_service_explanation">"Para o app funcionar, você precisa ativar o serviço de escuta de notificação. Ativar agora?"</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+</resources>
